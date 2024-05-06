@@ -1,4 +1,4 @@
-const serverAddress = "http://140.238.170.74:8001";
+const serverAddress = "localhost:8000";
 const gameName = "logical_mazes";
 
 
