@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+canvas {
+    display: block;
+    max-width: 95%; /* Canvas will not exceed its parent container */
+    max-height: 95%; /* Canvas will not exceed its parent container */
+}
+
+#click-container {
+    width: 400px;
+    height: 200px;
+    background-color: lightblue;
+    border: 1px solid black;
+}
